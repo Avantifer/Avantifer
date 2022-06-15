@@ -36,6 +36,7 @@
   <img style="margin: 10px" src="https://github.com/Avantifer/Avantifer/blob/master/img/BackEnd/JavaScript-icon.png" alt="JavaScript" height="50" />  
   <img style="margin: 10px" src="https://github.com/Avantifer/Avantifer/blob/master/img/BackEnd/TypeScript-icon.png" alt="TypeScript" height="50" /> 
   <img style="margin: 10px" src="https://github.com/Avantifer/Avantifer/blob/master/img/BackEnd/PHP-icon.png" alt="PHP" height="50" />
+  <img style="margin: 10px" src="https://github.com/Avantifer/Avantifer/blob/master/img/BackEnd/Python-icon.png" alt="Python" height="50" />
   <img style="margin: 10px" src="https://github.com/Avantifer/Avantifer/blob/master/img/BackEnd/java-icon.png" alt="Java" height="65" />
 </div>
 
