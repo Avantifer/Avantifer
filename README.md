@@ -71,9 +71,6 @@
  <br>
  <Wakatime> 
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Avantifer&theme=tokyonight&&layout=compact&hide_border=true">
- <Github Streak>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Avantifer&theme=tokyonight&hide_border=true" alt="Avantifer's github stats"/>
- <Github Stats>
 </div>
 
 <br>
