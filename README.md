@@ -6,7 +6,7 @@
 
 ### <div align="center">I'm Fernando Ruiz</div>
 
-- 😎 I'm 21 and I'm from Spain.
+- 😎 I'm 23 and I'm from Spain.
 - 🌱 I’m currently learning more about Web Development.
 - 🧐 I'm really interested in Big Data and AI.
 - ⚡ I usually develop some bots (Discord, Telegram, Instagram, Whatsapp) as a hobby.
